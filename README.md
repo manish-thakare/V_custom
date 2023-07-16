@@ -20,6 +20,24 @@ This is the course project for my MERN eCommerce course
 - PayPal / credit card integration
 - Database seeder (products & users)
 
+##  Homepage:
+![image](https://github.com/manish-thakare/V_custom/assets/82271000/820e04bd-fb4c-485a-a361-89d6523aca0a)
+
+## Detils:
+![image](https://github.com/manish-thakare/V_custom/assets/82271000/428a9131-a753-40c8-8f47-2a9b3c6d5079)
+
+## order details:
+![image](https://github.com/manish-thakare/V_custom/assets/82271000/2c176575-b9dd-492b-add0-981cf00bf80e)
+
+## Admin view :
+Checking users:
+![image](https://github.com/manish-thakare/V_custom/assets/82271000/44f04bd1-3c28-479a-8b45-62a62fe2ba80)
+
+Adding/updating product:
+![image](https://github.com/manish-thakare/V_custom/assets/82271000/81d6525a-ca30-4894-bf9d-0144300738d7)
+
+##
+
 ## Usage
 
 ### Env Variables
